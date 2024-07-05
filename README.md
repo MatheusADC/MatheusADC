@@ -10,7 +10,7 @@
 
 ## My Stats
 <div>
-    <br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusADC&show_icons=true&theme=midnight-purple&include_all_commits=true">
+    <br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusADC&show_icons=true&theme=midnight-purple">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADC&layout=compact&langs_count=16&theme=midnight-purple&size_weight=0.5&count_weight=0.5">
 </div>
 
