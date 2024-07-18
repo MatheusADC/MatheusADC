@@ -7,12 +7,6 @@
 <a href="https://discord.gg/9CSSGYc3ca"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="mailto:costa.mac023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## My Stats
-<div>
-    <br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusADC&show_icons=true&theme=midnight-purple">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADC&layout=compact&langs_count=16&theme=midnight-purple&size_weight=0.5&count_weight=0.5">
-</div>
-
 ## Portfolio
 - [integracao_api_gemini](https://github.com/MatheusADC/integracao_api_gemini)
 - [manutencaoAlexa](https://github.com/MatheusADC/manutencaoAlexa)
