@@ -16,7 +16,7 @@
 
 ## Portfolio
 - [Projeto de Combate às Chamas - Python](https://github.com/MatheusADC/Projeto-de-Combate-a-Chamas)
-- [Página Javascript - Apple Watch](https://github.com/MatheusADC/PaginaAppleWatchJS)
+- [Página Apple Watch - Javascript](https://github.com/MatheusADC/PaginaAppleWatchJS)
 - [Integração - API Gemini](https://github.com/MatheusADC/integracao_api_gemini)
 - [Cardápio Digital - React](https://github.com/MatheusADC/CardapioDigitalReact)
 - [Automação - Python](https://github.com/MatheusADC/AutomacaoPython)
@@ -47,15 +47,14 @@
      <a href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" target="_blank"/></a>
 </div>
 
-
 ### Libraries
 <div style="display: inline_block">
      <a href="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" target="_blank"/></a>
 </div>
-<br>
-<hr>
+
+## 
 <div>
     <p align="left">
-      <img width="100%" height="400em" align="center" src="/assets/Z5aE.gif" alt="Imagem">
+      <img width="100%" height="380em" align="center" src="/assets/Z5aE.gif" alt="Imagem">
     </p>
 </div>
