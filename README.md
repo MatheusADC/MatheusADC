@@ -16,11 +16,11 @@
 
 ## Portfolio
 - [Projeto de Combate às Chamas - Python](https://github.com/MatheusADC/Projeto-de-Combate-a-Chamas)
+- [Skill Manutenção Alexa - Javascript](https://github.com/MatheusADC/manutencaoAlexa)
 - [Página Apple Watch - Javascript](https://github.com/MatheusADC/PaginaAppleWatchJS)
-- [Integração - API Gemini](https://github.com/MatheusADC/integracao_api_gemini)
+- [Integração API Gemini - C](https://github.com/MatheusADC/integracao_api_gemini)
 - [Cardápio Digital - React](https://github.com/MatheusADC/CardapioDigitalReact)
 - [Automação - Python](https://github.com/MatheusADC/AutomacaoPython)
-- [Manutenção - Alexa](https://github.com/MatheusADC/manutencaoAlexa)
 
 ## ⭐ Skills & Technologies
 
