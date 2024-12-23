@@ -18,7 +18,7 @@
 - [Projeto de Combate às Chamas - Python](https://github.com/MatheusADC/Projeto-de-Combate-a-Chamas)
 - [Skill Manutenção Alexa - Javascript](https://github.com/MatheusADC/manutencaoAlexa)
 - [Página Apple Watch - Javascript](https://github.com/MatheusADC/PaginaAppleWatchJS)
-- [Gerenciador de livraria - C#](https://github.com/MatheusADC/Bookstore)
+- [Gerenciador de Livraria - C#](https://github.com/MatheusADC/Bookstore)
 - [Integração API Gemini - C](https://github.com/MatheusADC/integracao_api_gemini)
 - [Cardápio Digital - React](https://github.com/MatheusADC/CardapioDigitalReact)
 
