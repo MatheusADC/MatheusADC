@@ -8,7 +8,7 @@
 <a href="mailto:costa.mac023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MAContact)
 
-## My Stats
+## 📊 My Stats
 <div align="center">
     
 | GitHub Stats | Top Languages |
@@ -17,7 +17,7 @@
 
 </div>
 
-## Portfolio
+## 📌 Portfolio
 - [Projeto de Combate às Chamas - Python](https://github.com/MatheusADC/Projeto-de-Combate-a-Chamas)
 - [Skill Manutenção Alexa - Javascript](https://github.com/MatheusADC/manutencaoAlexa)
 - [Página Apple Watch - Javascript](https://github.com/MatheusADC/PaginaAppleWatchJS)
