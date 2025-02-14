@@ -25,6 +25,7 @@
 - [Imhere App - React Native](https://github.com/MatheusADC/im-here)
 - [Integração API Gemini - C](https://github.com/MatheusADC/integracao_api_gemini)
 - [Cardápio Digital - React](https://github.com/MatheusADC/CardapioDigitalReact)
+- [Balança Digital - C++](https://github.com/MatheusADC/Balanca-Digital)
 
 ## ⭐ Skills & Technologies
 
