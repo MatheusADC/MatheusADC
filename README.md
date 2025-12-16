@@ -27,6 +27,7 @@
 - [Integração API Gemini - C](https://github.com/MatheusADC/integracao_api_gemini)
 - [Cardápio Digital - React](https://github.com/MatheusADC/CardapioDigitalReact)
 - [Balança Digital - C++](https://github.com/MatheusADC/Balanca-Digital)
+- [Minidrone - C++](https://github.com/MatheusADC/Minidrone)
 - [Robgol - C++](https://github.com/MatheusADC/RobGol)
 
 ## ⭐ Skills & Technologies
