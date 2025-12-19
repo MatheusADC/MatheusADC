@@ -18,10 +18,10 @@
 </div> 
 
 ## 📌 Portfolio
+- [Gerador de Questões de Medicina ENADE - JavaScript](https://github.com/MatheusADC/GeradorQuestoesMedicinaENADE)
 - [Projeto de Combate às Chamas - Python](https://github.com/MatheusADC/Projeto-de-Combate-a-Chamas)
-- [Skill Manutenção Alexa - Javascript](https://github.com/MatheusADC/manutencaoAlexa)
+- [Skill Manutenção Alexa - JavaScript](https://github.com/MatheusADC/manutencaoAlexa)
 - [Carrinho Controller - React Native](https://github.com/MatheusADC/CarrinhoController)
-- [Página Apple Watch - Javascript](https://github.com/MatheusADC/PaginaAppleWatchJS)
 - [Gerenciador de Livraria - C#](https://github.com/MatheusADC/Bookstore)
 - [Imhere App - React Native](https://github.com/MatheusADC/im-here)
 - [Integração API Gemini - C](https://github.com/MatheusADC/integracao_api_gemini)
