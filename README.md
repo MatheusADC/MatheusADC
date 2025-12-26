@@ -8,14 +8,14 @@
 <a href="mailto:costa.mac023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MAContact)
 
-## 📊 My Stats
+<!-- ## 📊 My Stats
 <div align="center">
     
 | GitHub Stats | Top Languages |
 |--------------|---------------|
 | <img height="240em" src="https://github-readme-stats.vercel.app/api?username=MatheusADC&show_icons=true&theme=dark"> | <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADC&layout=compact&langs_count=25&theme=dark&size_weight=0.5&count_weight=0.5"> |
 
-</div> 
+</div> --->
 
 ## 📌 Portfolio
 - [Gerador de Questões de Medicina ENADE - JavaScript](https://github.com/MatheusADC/GeradorQuestoesMedicinaENADE)
