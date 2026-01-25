@@ -1,4 +1,4 @@
-# Hi! My name is Matheus Amaral✋
+# Hi! My name is Matheus Amaral da Costa✋
 
 🏢 Full stack Developer<br>
 📚 Studying Computer Engineering at FAESA Centro Universitário and Technology in Internet Systems (TSI) at IFES.
