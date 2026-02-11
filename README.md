@@ -60,10 +60,17 @@
      <a href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" target="_blank"/></a>
 </div>
 
+### Quality Assurance (QA)
+<div style="display: inline_block">
+     <a href="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white"><img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" target="_blank"/></a>
+     <a href="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" target="_blank"/></a>
+</div>
+
 ### Libraries
 <div style="display: inline_block">
      <a href="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" target="_blank"/></a>
 </div>
+
 
 ## 
 <div>
