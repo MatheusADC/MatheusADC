@@ -1,5 +1,6 @@
 # Hi! My name is Matheus Amaral✋
 
+🎓Computer Engineer<br>
 🏢 Full stack Developer<br>
 📚 Studying Computer Engineering at FAESA Centro Universitário and Technology in Internet Systems (TSI) at IFES.
 
