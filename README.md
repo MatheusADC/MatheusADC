@@ -14,7 +14,7 @@
     
   | GitHub Stats | Top Languages |
   |--------------|---------------|
-  | <img height="240em" src="https://streak-stats.demolab.com/?user=MatheusADC&count_private=true&theme=dark&title_color=00b3ff"/> | <img height="240em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MatheusADC&layout=compact&count_private=true&theme=dark&langs_count=20"/> |
+  | <img height="240em" src="https://streak-stats.demolab.com/?user=MatheusADC&count_private=true&theme=dark&title_color=00b3ff"/> | <img height="240em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MatheusADC&layout=compact&count_private=true&theme=dark&langs_count=21"/> |
   
 </div>
 
