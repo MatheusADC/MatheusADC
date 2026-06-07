@@ -1,7 +1,7 @@
 # Hi! My name is Matheus Amaral✋
 
 🏢 Full stack Developer<br/>
-📓Studying Technology in Internet Systems (TSI) at IFES<br/>
+📓 Studying Technology in Internet Systems (TSI) at IFES<br/>
 📚 Studying Computer Engineering at FAESA Centro Universitário
 
 <a href="https://linkedin.com/in/matheusadc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
