@@ -26,8 +26,8 @@
 
 ### 📫 Social Media
 
-<a href="https://linkedin.com/in/matheusadc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/>
 <a href="mailto:costa.mac023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br/>
+<a href="https://linkedin.com/in/matheusadc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/>
 <a href="https://discord.gg/9CSSGYc3ca"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><br/>
 <a href="https://t.me/MAContact"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
@@ -41,25 +41,25 @@
 
 <div align="center">
 
-**Languages**
+### **Languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,c" alt="Languages"/>
 
-<br/><br/>
+<br/>
 
-**Frameworks & Tools**
+### **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=angular,spring,laravel,tailwind,bootstrap" alt="Frameworks"/>
 
-<br/><br/>
+<br/>
 
-**Databases**
+### **Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb" alt="Databases"/>
 
-<br/><br/>
+<br/>
 
-**Testing & Libraries**
+### **Testing & Libraries**
 
 <img src="https://skillicons.dev/icons?i=cypress,jest,jquery" alt="Testing"/>
 
