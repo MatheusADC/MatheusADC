@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · Computer Engineer · Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B3FF&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot;Angular+%2B+TypeScript;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot;Angular+%2B+TypeScript;Always+learning+something+new" alt="Typing SVG" />
 
 </div>
 
@@ -67,12 +67,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MatheusADC&count_private=true&theme=dark&title_color=00b3ff&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ## 🚀 Featured Projects
 
 <table align="center" width="100%">
@@ -116,7 +110,7 @@ C++ · Robotics/goal-scoring project
 </tr>
 </table>
 
-<br/>
+##
 
 <div align="center">
   <img width="100%" src="assets/Z5aE.gif" alt="Banner"/>
