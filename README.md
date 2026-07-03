@@ -1,89 +1,131 @@
-# Hi! My name is Matheus Amaral✋
+<div align="center">
 
-📓 Studying Technology in Internet Systems (TSI) at IFES<br/>
-📚 Studying Computer Engineering at FAESA Centro Universitário<br/>
-🏢 Full stack Developer with 4+ years of experience building web applications<br/>
+# Hey, I'm Matheus Amaral 👋
 
-<a href="https://linkedin.com/in/matheusadc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/9CSSGYc3ca"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="mailto:costa.mac023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MAContact)
+### Full Stack Developer · Computer Engineer · Student
 
-## 📊 My Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B3FF&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot;Angular+%2B+TypeScript;Always+learning+something+new" alt="Typing SVG" />
 
-<!-- <div align="center">
-    
-  | GitHub Stats | Top Languages |
-  |--------------|---------------|
-  | <img height="240em" src="https://streak-stats.demolab.com/?user=MatheusADC&count_private=true&theme=dark&title_color=00b3ff"/> | <img height="240em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MatheusADC&layout=compact&count_private=true&theme=dark&langs_count=14"/> |
-  
-</div> -->
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="75%">
+
+### 🧭 About Me
+
+- 🎓 Technology in Internet Systems (TSI) — **IFES**
+- 📚 Computer Engineering — **FAESA Centro Universitário**
+- 💼 4+ years building full stack web applications
+- 🛠️ Comfortable across Java/Spring, Angular, and PHP/Laravel stacks
+
+</td>
+<td valign="top" width="25%">
+
+### 📫 Social Media
+
+<a href="https://linkedin.com/in/matheusadc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/>
+<a href="mailto:costa.mac023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br/>
+<a href="https://discord.gg/9CSSGYc3ca"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><br/>
+<a href="https://t.me/MAContact"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
-    
-  | GitHub Stats |
-  |--------------|
-  | <img height="240em" src="https://streak-stats.demolab.com/?user=MatheusADC&count_private=true&theme=dark&title_color=00b3ff"/> |
-  
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,c" alt="Languages"/>
+
+<br/><br/>
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=angular,spring,laravel,tailwind,bootstrap" alt="Frameworks"/>
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb" alt="Databases"/>
+
+<br/><br/>
+
+**Testing & Libraries**
+
+<img src="https://skillicons.dev/icons?i=cypress,jest,jquery" alt="Testing"/>
+
 </div>
 
-## 📌 Portfolio
-- [Gerador de Questões de Medicina ENADE - JavaScript](https://github.com/MatheusADC/GeradorQuestoesMedicinaENADE)
-- [Projeto de Combate às Chamas - Python](https://github.com/MatheusADC/Projeto-de-Combate-a-Chamas)
-- [Skill Manutenção Alexa - JavaScript](https://github.com/MatheusADC/manutencaoAlexa)
-- [Carrinho Controller - React Native](https://github.com/MatheusADC/CarrinhoController)
-- [Gerenciador de Livraria - C#](https://github.com/MatheusADC/Bookstore)
-- [Imhere App - React Native](https://github.com/MatheusADC/im-here)
-- [Cardápio Digital - React](https://github.com/MatheusADC/CardapioDigitalReact)
-- [Balança Digital - C++](https://github.com/MatheusADC/Balanca-Digital)
-- [Minidrone - C++](https://github.com/MatheusADC/Minidrone)
-- [Robgol - C++](https://github.com/MatheusADC/RobGol)
+<br/>
 
-## ⭐ Skills & Technologies
+## 📊 GitHub Stats
 
-### Programming Languages
-<div style="display: inline_block">
-     <a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" target="_blank"/></a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MatheusADC&count_private=true&theme=dark&title_color=00b3ff&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-### Frameworks & Tools
-<div style="display: inline_block">
-    <a href="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind-CSS" target="_blank"/></a>
-    <a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap5" target="_blank"/></a>
-    <a href="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" target="_blank"/></a>
-    <a href="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel11" target="_blank"/></a>
-    <a href="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" target="_blank"/></a>
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[Gerador de Questões Medicina ENADE](https://github.com/MatheusADC/GeradorQuestoesMedicinaENADE)**
+JavaScript · Question generator for ENADE medicine exams
+
+**[Combate às Chamas](https://github.com/MatheusADC/Projeto-de-Combate-a-Chamas)**
+Python · Fire detection/response project
+
+**[Alexa Skill — Manutenção](https://github.com/MatheusADC/manutencaoAlexa)**
+JavaScript · Custom Alexa maintenance skill
+
+**[Carrinho Controller](https://github.com/MatheusADC/CarrinhoController)**
+React Native · Mobile shopping cart controller
+
+**[Gerenciador de Livraria](https://github.com/MatheusADC/Bookstore)**
+C# · Bookstore management system
+
+</td>
+<td width="50%" valign="top">
+
+**[ImHere App](https://github.com/MatheusADC/im-here)**
+React Native · Attendance tracking app
+
+**[Cardápio Digital](https://github.com/MatheusADC/CardapioDigitalReact)**
+React · Digital restaurant menu
+
+**[Balança Digital](https://github.com/MatheusADC/Balanca-Digital)**
+C++ · Digital scale firmware/logic
+
+**[Minidrone](https://github.com/MatheusADC/Minidrone)**
+C++ · Mini drone control system
+
+**[Robgol](https://github.com/MatheusADC/RobGol)**
+C++ · Robotics/goal-scoring project
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="assets/Z5aE.gif" alt="Banner"/>
 </div>
 
-### Data Management
-<div style="display: inline_block">
-     <a href="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-     <a href="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" target="_blank"/></a>
-</div>
+<br/>
 
-### Quality Assurance & Testing
-<div style="display: inline_block">
-     <a href="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white"><img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" target="_blank"/></a>
-     <a href="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" target="_blank"/></a>
-</div>
+<div align="center">
 
-### Libraries
-<div style="display: inline_block">
-     <a href="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" target="_blank"/></a>
-</div>
+*Thanks for stopping by — feel free to reach out!*
 
-
-## 
-<div>
-    <p align="left">
-      <img width="100%" height="380em" align="center" src="/assets/Z5aE.gif" alt="Imagem">
-    </p>
 </div>
