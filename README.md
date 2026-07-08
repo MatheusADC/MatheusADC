@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/matheusadc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/>
 <a href="https://discord.gg/9CSSGYc3ca"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><br/>
 <a href="https://t.me/MAContact"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://matheusadc.github.io/curriculo/"><img src="https://img.shields.io/badge/Currículo-2E2E2E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Currículo"/></a>
+<a href="https://matheusadc.github.io/curriculo/"><img src="https://img.shields.io/badge/Curriculum-2E2E2E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Curriculum"/></a>
 
 </td>
 </tr>
