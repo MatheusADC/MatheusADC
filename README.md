@@ -18,7 +18,7 @@
 
 - 🎓 Technology in Internet Systems (TSI) — **IFES**
 - 📚 Computer Engineering — **FAESA Centro Universitário**
-- 💼 4+ years building full stack web applications
+- 💼 3+ years building full stack web applications
 - 🛠️ Comfortable across Java/Spring, Angular, and PHP/Laravel stacks
 
 </td>
