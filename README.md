@@ -12,7 +12,7 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="70%">
+<td valign="top" width="71%">
 
 ### 🧭 About Me
 
@@ -22,7 +22,7 @@
 - 🛠️ Comfortable across Java/Spring, Angular, and PHP/Laravel stacks
 
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="29%">
 
 ### 📫 Social Media
 
