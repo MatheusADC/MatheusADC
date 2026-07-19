@@ -110,9 +110,9 @@ C++ · Robotics/goal-scoring project
 </tr>
 </table>
 
-<!-- ##
+##
 
-<!-- <div align="center">
+<div align="center">
   <img width="100%" src="assets/Z5aE.gif" alt="Banner"/>
 </div>
 
@@ -122,4 +122,4 @@ C++ · Robotics/goal-scoring project
 
 *Thanks for stopping by — feel free to reach out!*
 
-</div> -->
+</div> 
