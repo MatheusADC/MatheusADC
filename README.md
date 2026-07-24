@@ -16,7 +16,7 @@
 
 ### 🧭 About Me
 
-- 💼 3+ years building full stack web applications
+- 💼 4+ years building full stack web applications
 - 🎓 Technology in Internet Systems (TSI) — **IFES**
 - 📚 Computer Engineering — **FAESA Centro Universitário**
 - 🛠️ Comfortable across Java/Spring, Angular, and PHP/Laravel stacks
